@@ -14,6 +14,24 @@
 
 #### 2.项目部署
 
-详见：http://blog.cyrobot.top/blog/article/176 
+##### 2.1 后端
 
-暂未来得及写~可以参考博客别的文章
+- 创建数据库，导入项目中的sql
+
+- 打开IDEA，导入项目xiyi-admin
+
+- 根据本地数据库环境，修改数据库的连接信息src/main/resources/jdbc.properties 1-4行
+
+- idea中配置tomcat，启动项目，运行 http://localhost:8080/ksxy
+
+-  管理员账号/密码： admin/123456
+
+##### 2.2 小程序端
+
+- 打开微信开发工具
+
+- 导入项目 xiyi-miniapp
+
+- 选择测试号即可
+
+- 登录。商家登录账号/密码： 李明1/123456  普通用户账号/密码： jack/123456， 或者查看user表和store表
