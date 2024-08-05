@@ -1,4 +1,5 @@
-![Uploading gh_17810254f3db_258.jpg…]()
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/61edaf67-3e03-4f3b-9eaf-7efb5fce0cd2)
+
 
 **郑重声明：项目经过本地测试，确保可以运行。由于精力有限，不提供调试服务。项目仅供学习和毕业设计参考~**
 
